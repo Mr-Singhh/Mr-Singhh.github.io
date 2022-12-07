@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.411c3d1b.css",
+    "main.js": "/static/js/main.a1b92e6e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/india.gif": "/static/media/india.6b168d24fbe57312a016.gif",
+    "static/media/RNTI.png": "/static/media/RNTI.936f98fcaee2613f5242.png",
+    "static/media/tenderHeart.jpg": "/static/media/tenderHeart.ac4455ca2cb0b5c3bf39.jpg",
+    "static/media/lowrence.jpg": "/static/media/lowrence.16ee118d79f50b2c34dd.jpg",
+    "static/media/pikku.jpeg": "/static/media/pikku.8ed6b75041ca13cec92f.jpeg",
+    "index.html": "/index.html",
+    "main.411c3d1b.css.map": "/static/css/main.411c3d1b.css.map",
+    "main.a1b92e6e.js.map": "/static/js/main.a1b92e6e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411c3d1b.css",
+    "static/js/main.a1b92e6e.js"
+  ]
+}
